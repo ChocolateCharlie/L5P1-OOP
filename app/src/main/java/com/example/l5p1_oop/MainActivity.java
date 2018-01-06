@@ -8,7 +8,7 @@ import static android.util.TypedValue.COMPLEX_UNIT_SP;
 
 public class MainActivity extends AppCompatActivity {
 
-    @Override
+   /* @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
@@ -19,5 +19,5 @@ public class MainActivity extends AppCompatActivity {
         textView.setTextSize(COMPLEX_UNIT_SP, 72);
 
         setContentView(textView);
-    }
+    }*/
 }
